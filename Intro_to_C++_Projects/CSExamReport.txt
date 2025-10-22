@@ -1,0 +1,14 @@
+Computer Scientist Exam Report
+------------------------------
+
+Grace Hopper has an exam average of 82.02
+Alan Kay has an exam average of 83.04
+John Backus has an exam average of 92.12
+Sergey Brin has an exam average of 85.50
+Dennis Ritchie has an exam average of 98.98
+Brian Kernighan has an exam average of 97.40
+Alan Turning has an exam average of 95.58
+
+There were 7 student records in this file.
+
+All files are closed and report is written. Goodbye!

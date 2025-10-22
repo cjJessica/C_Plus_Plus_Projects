@@ -1,0 +1,5 @@
+95 Washington George 
+97 Adams John 
+98 Jefferson Thomas 
+100 Madison James 
+93 Monroe James
